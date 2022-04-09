@@ -1,2 +1,2 @@
-PY - Python script
-DS - Data Science
+| DS | Data Science |
+| PY | Python |
