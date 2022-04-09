@@ -1,3 +1,2 @@
-| DS | Data Science |
-|----|--------------|
-| PY | Python       |
+DS | Data Science<br>
+PY | Python
